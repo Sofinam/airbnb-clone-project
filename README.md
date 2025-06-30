@@ -16,19 +16,11 @@ Tech stack overview
 - Docker container
 
 
-
-
-
-
-
-
-
-Team roles
-- Project Manager
-- Frontend developer - create the user interface of the app
-- Backend developer - implement the logic of the App
-- Database Administrator
-- Develops Engineer - builds continous integration and delivery of the App
+# Team roles
+- Backend developer - maintain server logic, API and database. Ensure security performance and data flow between the frontend and database. Handels authentication, user roles and booking logic.
+- Database Administrator - Design and manage database schema. Ensure data consistency, optimise queries, handle migration and setup backup
+- QA engineer - Create and run tests to ensure backend functionality works correctly
+- Devops Engineer - Set up CI/CD pipelines, containerization and deployment to production environment.
 
 
 
